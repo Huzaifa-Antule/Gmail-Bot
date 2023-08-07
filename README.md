@@ -5,10 +5,12 @@ To automate email tasks and streamline the process of sending bulk messages,  el
 # 🌐  Gmail Bot and Its Features : 
 
 
-# 📌 ** Manual Recipient List Creation:** Empower personalized communication by manually curating recipient lists. Tailor your emails for individualized engagement.
+# 📌 Manual Recipient List Creation: 
+  Empower personalized communication by manually curating recipient lists. Tailor your emails for individualized engagement.
 
 
-# 📌 **CSV File Upload for Bulk Sending:** Simplify large-scale communication. Upload a CSV file with email addresses, and the Gmail Bot ensures precise, swift distribution.
+# 📌 CSV File Upload for Bulk Sending:
+  Simplify large-scale communication. Upload a CSV file with email addresses, and the Gmail Bot ensures precise, swift distribution.
 
 # 🔸 **Manual Recipient List Creation:**
    1. Launch the Gmail Bot.
